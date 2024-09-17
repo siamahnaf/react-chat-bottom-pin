@@ -16,6 +16,7 @@ npm install react-chat-bottom-pin
 npm install react-chat-bottom-pin@latest
 ```
 
+
 ## Usage
 
 use the component to wrap the content which you want to scroll to the bottom
